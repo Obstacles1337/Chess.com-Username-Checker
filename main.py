@@ -24,3 +24,6 @@ class ChessChecker():
 if __name__ == "__main__":
     Chess = ChessChecker()
     Chess.check()
+    
+    #Discord: Obstacles#5096
+   
